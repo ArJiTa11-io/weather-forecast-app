@@ -35,10 +35,4 @@ This application transitions standalone predictive modeling into an interactive,
 
 ---
 
-## 🔒 Runtime Optimization & Security Profiles
 
-### 🛡️ Credential Vaulting (Zero-Trust Security)
-To ensure compliance with modern secure software development guidelines, live authentication parameters are wrapped using Streamlit's structural configuration layer:
-```python
-# Encapsulated state parsing from hidden context storage
-API_KEY = st.secrets["api_key"]

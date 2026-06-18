@@ -48,7 +48,7 @@ This application transitions standalone predictive modeling into an interactive,
   <img src="dashboard-main(1).png" alt="Predictive Analytics Trend" width="100%">
   <br><br><br>
   <strong></strong><br>
-  <img src="dashboard-main(2).png" alt="Data Distribution" width="100%">
+ <img src="dashboard-main (2).png" alt="Data Distribution" width="100%">
 </p>
 
 ---

@@ -34,5 +34,13 @@ This application transitions standalone predictive modeling into an interactive,
 * Implements the localized `st.cache_data` caching framework over dataset ingestion points to mitigate latency overheads during frequent interactive query lookups.
 
 ---
+---
 
+## 📸 Interface Preview
+
+<p align="center">
+  <img src="dashboard-main.png" alt="Main Application Interface" width="100%">
+</p>
+
+---
 
